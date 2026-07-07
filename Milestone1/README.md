@@ -83,7 +83,7 @@ Allows users to reset their password by verifying their identity through a secur
 
 ### 4. Forgot Password (Email OTP)
 
-![Forgot Password Emil OTP](screenshots/forgot%20password%20%28Emil%20OTP%29.png)
+![Forgot Password Email OTP](screenshots/forgot%20password%20%28Email%20OTP%29.png)
 
 Allows users to reset their password by verifying their registered email using an OTP.
 
