@@ -81,3 +81,32 @@ Allows new users to create an account by providing the required details.
 Allows users to reset their password by verifying their identity through a security question.
 
 
+### 4. Forgot Password (Email OTP)
+
+![Forgot Password Emil OTP](screenshots/forgot%20password%20%28Emil%20OTP%29.png)
+
+Allows users to reset their password by verifying their registered email using an OTP.
+
+
+### 5. OTP Email Verification
+
+![OTP Email](screenshots/OTP%20Email.png)
+
+Allows users to verify their registered email address by entering the OTP received through email.
+
+
+### 6. User Dashboard
+
+![User Dashboard](screenshots/User%20dashboard.png)
+
+Provides users with access to their dashboard and available system features after successful login.
+
+
+### 7. Admin Dashboard
+
+![Admin Dashboard](screenshots/Admin%20dashboard.png)
+
+Allows administrators to manage and monitor system activities through the admin dashboard.
+
+
+
