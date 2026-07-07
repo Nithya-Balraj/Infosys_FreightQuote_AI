@@ -62,3 +62,22 @@ The User Authentication Module is a secure web application developed using Strea
 
 ### 1. Login Page
 
+![Login Page](screenshots/login%20page.png)
+
+Allows registered users to securely log in using their username/email and password.
+
+
+### 2. SignUp Page
+
+![Signup Page](screenshots/signup%20page.png)
+
+Allows new users to create an account by providing the required details.
+
+
+### 3. Forgot Password (Security Question)
+
+![Forgot Password Security Question](screenshots/forgot%20password%20%28security%20question%29.png)
+
+Allows users to reset their password by verifying their identity through a security question.
+
+
