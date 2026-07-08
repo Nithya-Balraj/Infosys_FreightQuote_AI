@@ -58,6 +58,24 @@ The User Authentication Module is a secure web application developed using Strea
 4. Open the generated ngrok URL.
 5. Test the Signup, Login, Forgot Password, User Dashboard, and Admin Dashboard.
 
+## How to Generate a Gmail App Password
+
+1. Sign in to your Google account.
+2. Enable 2-Step Verification if it is not already enabled.
+3. Go to **Google Account → Security → App Passwords**.
+4. Select **Mail** as the app.
+5. Generate a new App Password.
+6. Copy the generated 16-character password.
+7. Add it as the value for `EMAIL_PASSWORD` in Google Colab Secrets.
+
+## How to Get an ngrok Authentication Token
+
+1. Create an account on the ngrok website.
+2. Log in to your ngrok account.
+3. Navigate to the **Your Authtoken** section in the dashboard.
+4. Copy your authentication token.
+5. Add it as the value for `NGROK_AUTHTOKEN` in Google Colab Secrets.
+
 ## Screenshots
 
 ### 1. Login Page
